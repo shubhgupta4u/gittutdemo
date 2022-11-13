@@ -1,1 +1,1 @@
-version 2 of my project
+version 3 of my project
